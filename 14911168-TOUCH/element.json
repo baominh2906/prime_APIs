@@ -1,0 +1,21 @@
+{
+    "index": "1",
+    "text": "Accessibility Node Querying",
+    "class": "android.widget.TextView",
+    "package": "io.appium.android.apis",
+    "content-desc": "Accessibility Node Querying",
+    "checkable": "false",
+    "checked": "false",
+    "clickable": "true",
+    "enabled": "true",
+    "focusable": "false",
+    "focused": "false",
+    "scrollable": "false",
+    "long-clickable": "false",
+    "password": "false",
+    "selected": "false",
+    "bounds": "[0,516][1440,708]",
+    "resource-id": "android:id/text1",
+    "instance": "2",
+    "xpath": "//android.widget.TextView[@content-desc=\"Accessibility Node Querying\"]"
+}
